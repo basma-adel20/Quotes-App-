@@ -1,0 +1,35 @@
+.box h1{
+    font-size: 100px;
+    font-weight: 900;
+    /* color: rgb(67, 67, 67); */
+    font-family : 'Poppins', sans-serif;
+}
+
+.box p{
+    font-size: 40px;
+    font-weight: 500;
+}
+
+.box button{
+    width: 400px;
+    padding: 40px 0px;
+    font-size: 25px;
+    border-radius: 10px;
+    background-color: cadetblue;
+    color: #eee;
+}
+
+
+.box button:hover{
+    background-color: #c56161;
+}
+
+.box #writer{
+    color: #3b7f8e;
+}
+
+.content{
+    width: 78%;
+    margin: auto;
+
+}
